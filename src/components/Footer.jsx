@@ -29,7 +29,7 @@ function Footer() {
             <a href="mailto:homefood@gmail.com"><i className="far fa-envelope fa-2x"></i></a>
             <a href="https://www.overleaf.com/read/ytqsjhsdztqq" target="_blank" rel="noreferrer"><i className="fas fa-file-word fa-2x"></i></a>
             <a href="https://sites.google.com/view/homefooddeliveryservies/home" target="_blank" rel="noreferrer"><i className="fab fa-google fa-2x"></i></a>
-            <a href="https://github.com/simranjots/CapStone_Project" target="_blank" rel="noreferrer"><i className="fab fa-github fa-2x"></i></a>
+            <a href="https://github.com/JaldeepSenjaliya/FrontEnd-FinalProject-React" target="_blank" rel="noreferrer"><i className="fab fa-github fa-2x"></i></a>
             <a href="https://www.youtube.com/watch?v=o7eYUkqTahk" target="_blank" rel="noreferrer"><i className="fab fa-youtube fa-2x"></i></a>
             <a href="#home"><i className="fas fa-angle-up fa-2x"></i></a>
             <div className="copyright-text"><p>&copy; Team West 2021</p></div>
